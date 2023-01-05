@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.container img{
+    height: 200px;
+    width: 200px;
+}
+.container h1{
+    margin-top: 12%;
+}
+
+.heading h1{
+    margin-top: 22%;
+}
+.about{
+    margin-bottom: 5%;
+}

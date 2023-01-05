@@ -1,0 +1,15 @@
+.header-img img {
+    width: 50%;
+    height: 100px;
+}
+.header-jewels img {
+    width: 100%;
+    margin-top: -0.3%;
+}
+.topimg {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    z-index: 9;
+    width: 100%;
+  }

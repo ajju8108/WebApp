@@ -1,0 +1,9 @@
+Color specification:
+
+
+bluecolor #0B52A1 
+
+darkgrey #636363 
+
+lightgrey #A8A8A8 
+

@@ -1,0 +1,74 @@
+aside {
+    padding-right: 3px;
+    width: 21%;
+    float: left;
+    border-right: 2px solid transparent;
+    border-image-source: url("../../../images/vertical_dot.gif");/* url("/images/vertical_dot.gif"); */
+    border-image-repeat: repeat;
+    border-image-slice: 1;
+    margin-top: 11%
+}
+.viewByProducts,
+.generalInfo,
+.signUp {
+    color: white;
+    border-bottom: 2px solid #0B52A1;
+}
+.sidebar_header img {
+    position: relative;
+    width: 70%;
+    height: 25px;
+    margin-top: 7%;
+}
+.lists {
+    background: rgb(224, 221, 221);
+    padding: 4%;
+    margin-top: -1.5%;
+    border-top: 2px solid #0B52A1;
+}
+
+.lists a {
+    text-decoration: none;
+    color: black;
+}
+.sideheading1 {
+    position: absolute;
+    margin-top: -2.9%;
+    margin-left: 3%;
+    font-size: 1vw;
+}
+
+.sideheading2 {
+    position: absolute;
+    margin-top: -2.9%;
+    margin-left: 3%;
+    font-size: 1vw;
+}
+
+.sideheading3 {
+    position: absolute;
+    margin-top: -2.9%;
+    margin-left: 3%;
+    font-size: 1vw;
+}
+.signup_text {
+    position: absolute;
+    bottom: -14.7%;
+    left: 3%;
+    font-size: 1vw;
+}
+
+.signup_details {
+    margin-left: 4%;
+    padding-bottom: 4%;
+}
+
+.signup-img img {
+    margin-top: -1.5%;
+    width: 100%;
+    border-top: 2px solid #0B52A1;
+}
+.bangles img {
+    width: 100%;
+    margin-top: 5%;
+}
